@@ -1,0 +1,48 @@
+use test;
+
+CREATE TABLE sales
+(
+	Customer_ID	int,
+	Product_Rank int,
+	Product_Provider varchar(30),
+	Product_Name varchar(30),
+	Product_Value float,
+	Sold int,
+	Sale_Source varchar(30)
+	
+);
+
+CREATE TABLE sales_real
+(
+	Customer_ID	int,
+	Product_Rank int,
+	Product_Provider varchar(30),
+	Product_Name varchar(30),
+	Product_Value float,
+	Sold int,
+	Sale_Source varchar(30)
+	
+);
+
+LOAD DATA LOCAL INFILE 'F:/Project/data.txt' INTO TABLE sales
+IGNORE 1 LINES;
+
+insert into test.sales_real (select * from test.sales where test.sales.Sold=1 order by sales.Product_Name);
+
+select count(distinct(test.sales.Customer_ID)) from test.sales;
+
+
+
+
+CREATE TABLE sales_info_rank_sale
+(
+	Product_Name varchar(30),
+	Product_Provider varchar(30),
+	Product_Rank int,
+	Product_Search_Count int,
+	Product_Sell_Count int,
+	Product_Value float
+	
+);
+
+insert into test.sales_info_rank_sale (select test.sales.Product_Name, test.sales.Product_Provider,test.sales.Product_Rank, count(test.sales.Product_Rank),sum(test.sales.Sold),test.sales.Product_Value from test.sales group by sales.Product_Name,Product_Provider,test.sales.Product_Rank);

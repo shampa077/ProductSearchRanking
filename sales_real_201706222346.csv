@@ -1,0 +1,235 @@
+﻿"Customer_ID","Product_Rank","Product_Provider","Product_Name","Product_Value","Sold","Sale_Source"
+"1,327,860",8,Provider A,Product 0,"6,398.6",1,"callcentre"
+"288,077",10,Provider A,Product 0,"5,402.13",1,"callcentre"
+"1,662,749",8,Provider A,Product 0,"4,071.03",1,"callcentre"
+"1,337,186",10,Provider A,Product 0,"4,192.76",1,"callcentre"
+"288,130",2,Provider A,Product 0,"6,008.53",1,"callcentre"
+"289,351",10,Provider A,Product 0,"4,732.9",1,"callcentre"
+"1,618,217",9,Provider A,Product 0,"4,322.42",1,"callcentre"
+"1,651,696",3,Provider B,Product 1412,695.202,1,"callcentre"
+282,1,Provider B,Product 1412,335.554,1,"online"
+"1,632,073",1,Provider B,Product 1412,576.972,1,"online"
+"288,777",1,Provider B,Product 1412,888.73,1,"online"
+"1,336,802",1,Provider B,Product 1412,"2,174.1",1,"online"
+"1,678,656",1,Provider B,Product 1412,666.671,1,"online"
+330,7,Provider B,Product 1412,"6,974.01",1,"callcentre"
+"1,656,035",3,Provider B,Product 1412,949.672,1,"callcentre"
+"1,624,437",4,Provider B,Product 1412,298.225,1,"callcentre"
+"288,130",1,Provider B,Product 1412,"1,208.51",1,"online"
+"1,327,803",1,Provider B,Product 1412,826.998,1,"online"
+"288,197",2,Provider B,Product 1412,318.767,1,"online"
+"288,265",2,Provider B,Product 1412,285.908,1,"online"
+"288,321",1,Provider B,Product 1412,590.039,1,"online"
+"1,649,535",1,Provider B,Product 1412,602.337,1,"online"
+"288,836",7,Provider B,Product 1412,76.0644,1,"online"
+"1,320,668",1,Provider B,Product 1412,547.342,1,"online"
+"1,671,856",1,Provider B,Product 1412,782.912,1,"online"
+"1,642,801",6,Provider B,Product 1412,563.32,1,"callcentre"
+"1,287,989",6,Provider B,Product 1412,238.102,1,"callcentre"
+263,1,Provider B,Product 1412,"2,981.89",1,"online"
+"1,639,239",2,Provider B,Product 1412,296.799,1,"online"
+"1,320,573",6,Provider B,Product 1412,838.337,1,"callcentre"
+"288,013",7,Provider B,Product 1412,467.126,1,"callcentre"
+"288,452",7,Provider B,Product 1412,457.197,1,"online"
+"1,639,310",1,Provider B,Product 1412,873.316,1,"online"
+"1,670,339",1,Provider A,Product 3160,296.615,1,"callcentre"
+"288,449",1,Provider A,Product 3160,187.51,1,"online"
+"1,630,405",4,Provider A,Product 3160,846.477,1,"callcentre"
+"1,672,838",1,Provider A,Product 3160,143.739,1,"callcentre"
+"882,419",1,Provider A,Product 3160,248.317,1,"online"
+"1,631,927",1,Provider A,Product 3160,171.732,1,"callcentre"
+"1,647,270",2,Provider A,Product 3160,405.508,1,"callcentre"
+"288,782",1,Provider A,Product 3160,625.352,1,"online"
+"289,797",1,Provider A,Product 3160,34.8289,1,"online"
+"4,047,763",1,Provider A,Product 3160,12.0202,1,"callcentre"
+"753,670",3,Provider A,Product 3160,0,1,"callcentre"
+"865,564",1,Provider A,Product 3160,302.264,1,"online"
+"868,019",1,Provider A,Product 3160,276.29,1,"online"
+"289,351",1,Provider A,Product 3160,492.714,1,"online"
+"1,654,659",1,Provider A,Product 3160,105.942,1,"callcentre"
+"1,646,664",1,Provider A,Product 3160,340.291,1,"callcentre"
+"288,561",1,Provider A,Product 3160,547.752,1,"online"
+"1,645,465",1,Provider A,Product 3160,374.541,1,"callcentre"
+"1,673,495",2,Provider A,Product 3160,301.918,1,"online"
+219,1,Provider A,Product 3160,"1,966.41",1,"online"
+"1,719,430",1,Provider A,Product 3160,523.222,1,"callcentre"
+288,1,Provider A,Product 3160,873.723,1,"online"
+277,1,Provider A,Product 3160,104.848,1,"online"
+275,1,Provider A,Product 3160,142.475,1,"online"
+272,1,Provider A,Product 3160,451.541,1,"online"
+271,1,Provider A,Product 3160,134.563,1,"online"
+268,1,Provider A,Product 3160,"1,046.96",1,"online"
+267,1,Provider A,Product 3160,415.471,1,"online"
+"289,223",2,Provider A,Product 3160,375.705,1,"online"
+256,1,Provider A,Product 3160,637.674,1,"online"
+244,1,Provider A,Product 3160,126.396,1,"online"
+236,1,Provider A,Product 3160,3.24759,1,"online"
+235,1,Provider A,Product 3160,333.531,1,"online"
+"1,587,509",1,Provider A,Product 3160,262.193,1,"online"
+"1,698,045",1,Provider A,Product 3160,105.503,1,"callcentre"
+234,1,Provider A,Product 3160,443.592,1,"online"
+"1,683,353",3,Provider A,Product 3160,689.825,1,"callcentre"
+"1,676,680",1,Provider A,Product 3160,44.7544,1,"online"
+"288,092",1,Provider A,Product 3160,411.943,1,"online"
+"288,054",3,Provider A,Product 3160,926.687,1,"callcentre"
+"1,629,407",1,Provider A,Product 3160,18.1739,1,"callcentre"
+"1,321,121",3,Provider B,Product 3164,909.12,1,"callcentre"
+"753,670",1,Provider B,Product 3164,"2,176.04",1,"online"
+234,8,Provider B,Product 3164,21.995,1,"online"
+"1,660,599",1,Provider B,Product 3164,678.657,1,"online"
+"288,612",10,Provider B,Product 3164,83.504,1,"online"
+"288,034",1,Provider B,Product 3164,"3,312.48",1,"online"
+"4,042,087",2,Provider B,Product 3164,346.191,1,"online"
+"288,626",1,Provider B,Product 3164,552.593,1,"online"
+205,1,Provider B,Product 3164,870.43,1,"online"
+"865,564",8,Provider B,Product 3164,621.671,1,"online"
+"288,171",10,Provider B,Product 3164,511.711,1,"callcentre"
+"288,270",4,Provider A,Product 3292,219.533,1,"online"
+191,2,Provider A,Product 3292,"1,061.46",1,"callcentre"
+"288,184",2,Provider A,Product 3292,241.6,1,"callcentre"
+"1,636,075",1,Provider A,Product 3292,47.5276,1,"callcentre"
+"1,629,520",4,Provider A,Product 3292,35.2249,1,"callcentre"
+275,2,Provider A,Product 3292,310.658,1,"online"
+"1,662,107",1,Provider A,Product 3292,84.8214,1,"callcentre"
+"1,683,431",2,Provider A,Product 3292,307.149,1,"online"
+"289,223",3,Provider A,Product 3292,43.2025,1,"online"
+"1,327,868",2,Provider A,Product 3292,333.531,1,"online"
+"1,656,035",2,Provider A,Product 3292,494.51,1,"callcentre"
+"1,637,566",1,Provider A,Product 3292,5.18278,1,"online"
+"1,337,193",2,Provider B,Product 3532,317.688,1,"online"
+"1,605,052",1,Provider B,Product 3532,867.322,1,"online"
+"1,321,121",1,Provider B,Product 3532,648.099,1,"online"
+"1,320,776",1,Provider B,Product 3532,505.209,1,"online"
+"1,635,814",1,Provider B,Product 3532,408.374,1,"callcentre"
+"1,683,379",6,Provider B,Product 3532,26.1079,1,"callcentre"
+"288,079",1,Provider B,Product 3532,203.66,1,"online"
+"288,320",1,Provider B,Product 3532,14.0676,1,"online"
+"1,684,057",1,Provider B,Product 3532,676.927,1,"online"
+"1,735,005",1,Provider B,Product 3532,515.131,1,"callcentre"
+234,6,Provider B,Product 3532,249.662,1,"callcentre"
+260,1,Provider B,Product 3532,663.489,1,"online"
+"3,729,843",1,Provider B,Product 3532,576.373,1,"online"
+"1,651,696",1,Provider B,Product 3532,821.076,1,"online"
+223,1,Provider B,Product 3532,0,1,"online"
+57,4,Provider B,Product 3532,782.26,1,"online"
+"872,402",1,Provider B,Product 3532,207.344,1,"online"
+"1,615,019",4,Provider A,Product 552,184.621,1,"callcentre"
+"1,638,983",2,Provider A,Product 552,8.71621,1,"online"
+"1,681,291",5,Provider A,Product 552,190.57,1,"callcentre"
+"1,624,776",4,Provider A,Product 552,503.751,1,"callcentre"
+"1,643,480",2,Provider A,Product 552,761.434,1,"callcentre"
+"1,646,735",3,Provider A,Product 552,908.916,1,"callcentre"
+"1,646,764",3,Provider A,Product 552,10.5863,1,"online"
+"1,660,594",3,Provider A,Product 552,750.906,1,"callcentre"
+"1,670,155",4,Provider A,Product 552,18.935,1,"online"
+"1,642,321",3,Provider A,Product 552,3.11825,1,"online"
+"1,629,707",4,Provider A,Product 552,390.499,1,"callcentre"
+"1,679,695",5,Provider A,Product 552,600.428,1,"callcentre"
+"1,613,332",4,Provider A,Product 552,902.781,1,"callcentre"
+"288,054",5,Provider A,Product 552,569.813,1,"callcentre"
+"288,688",4,Provider A,Product 552,515.82,1,"callcentre"
+"288,740",2,Provider A,Product 552,114.974,1,"online"
+"880,338",3,Provider A,Product 552,35.177,1,"online"
+57,2,Provider A,Product 552,63.3663,1,"online"
+"288,279",5,Provider A,Product 552,269.23,1,"online"
+"1,319,137",4,Provider A,Product 552,801.267,1,"online"
+234,4,Provider A,Product 552,629.08,1,"callcentre"
+"1,612,596",3,Provider A,Product 552,669.155,1,"callcentre"
+"885,161",6,Provider A,Product 552,404.376,1,"callcentre"
+"288,679",5,Provider A,Product 56,290.49,1,"online"
+"288,596",2,Provider A,Product 56,322.396,1,"online"
+"1,655,000",2,Provider A,Product 56,250.986,1,"callcentre"
+"288,725",4,Provider A,Product 56,421.638,1,"callcentre"
+"1,652,463",2,Provider A,Product 56,259.417,1,"callcentre"
+"4,046,732",3,Provider A,Product 56,997.728,1,"callcentre"
+"1,649,796",2,Provider A,Product 56,348.971,1,"callcentre"
+"288,782",3,Provider A,Product 56,727.676,1,"callcentre"
+"1,649,521",2,Provider A,Product 56,"1,054.73",1,"callcentre"
+"289,406",2,Provider A,Product 56,737.771,1,"online"
+"1,661,666",1,Provider A,Product 56,279.631,1,"callcentre"
+"1,661,666",1,Provider A,Product 56,76.7523,1,"callcentre"
+"288,406",3,Provider A,Product 56,883.603,1,"callcentre"
+"1,695,738",4,Provider A,Product 56,739.503,1,"callcentre"
+"1,685,822",4,Provider A,Product 56,232.752,1,"callcentre"
+"1,685,822",4,Provider A,Product 56,329.538,1,"callcentre"
+"1,685,822",1,Provider A,Product 56,133.439,1,"callcentre"
+"1,684,118",3,Provider A,Product 56,703.958,1,"callcentre"
+330,3,Provider A,Product 56,"1,415.79",1,"callcentre"
+"288,148",2,Provider A,Product 56,408.406,1,"online"
+"288,163",4,Provider A,Product 56,553.929,1,"callcentre"
+"1,681,285",2,Provider A,Product 56,266.794,1,"callcentre"
+"1,649,535",3,Provider A,Product 56,793.382,1,"callcentre"
+"1,679,987",5,Provider A,Product 56,229.902,1,"callcentre"
+"288,308",2,Provider A,Product 56,4.84622,1,"online"
+"1,673,545",3,Provider A,Product 56,1.99764,1,"online"
+"288,393",4,Provider A,Product 56,159.026,1,"online"
+"874,233",1,Provider A,Product 56,282.069,1,"online"
+"1,287,989",2,Provider A,Product 56,397.344,1,"online"
+"1,321,893",3,Provider A,Product 56,966.811,1,"callcentre"
+"1,631,743",2,Provider A,Product 56,393.579,1,"online"
+"1,640,319",2,Provider A,Product 56,10.3229,1,"online"
+"1,643,358",2,Provider A,Product 56,613.072,1,"callcentre"
+"1,685,822",1,Provider A,Product 56,79.0787,1,"callcentre"
+"1,643,480",1,Provider A,Product 56,172.989,1,"callcentre"
+"1,643,713",2,Provider A,Product 56,566.259,1,"callcentre"
+"1,325,198",1,Provider A,Product 56,650.073,1,"online"
+"1,630,612",4,Provider A,Product 56,86.2539,1,"callcentre"
+"1,614,735",4,Provider A,Product 56,90.0879,1,"callcentre"
+"1,644,616",3,Provider A,Product 56,948.692,1,"callcentre"
+"1,606,659",2,Provider A,Product 56,291.548,1,"online"
+"1,319,661",2,Provider A,Product 56,394.736,1,"online"
+"1,624,437",1,Provider A,Product 56,430.592,1,"online"
+"288,580",2,Provider A,Product 64,254.152,1,"online"
+"288,475",7,Provider A,Product 64,443.57,1,"online"
+"2,862,744",4,Provider A,Product 64,42.2441,1,"online"
+"1,644,616",2,Provider A,Product 64,644.964,1,"callcentre"
+"1,322,014",3,Provider A,Product 64,29.95,1,"online"
+"2,578,987",2,Provider A,Product 64,328.204,1,"online"
+"1,630,002",4,Provider A,Product 64,60.0577,1,"callcentre"
+"288,196",3,Provider A,Product 64,"1,297.08",1,"online"
+"1,631,314",2,Provider A,Product 64,254.14,1,"online"
+"1,695,738",3,Provider A,Product 64,840.446,1,"callcentre"
+"1,659,246",2,Provider A,Product 64,316.944,1,"online"
+"1,654,659",2,Provider A,Product 64,71.8155,1,"callcentre"
+"1,656,350",2,Provider A,Product 64,48.3169,1,"callcentre"
+"289,178",1,Provider A,Product 64,467.438,1,"online"
+"1,649,321",2,Provider A,Product 64,816.267,1,"callcentre"
+"879,049",1,Provider A,Product 64,717.385,1,"online"
+"1,646,204",2,Provider A,Product 64,216.901,1,"callcentre"
+"1,643,916",2,Provider A,Product 64,223.751,1,"callcentre"
+"1,645,465",2,Provider A,Product 64,28.0338,1,"callcentre"
+"1,648,794",2,Provider A,Product 64,722.941,1,"callcentre"
+"1,326,735",3,Provider A,Product 68,712.76,1,"callcentre"
+"1,655,880",8,Provider A,Product 68,27.3436,1,"online"
+"1,606,659",5,Provider A,Product 68,3.24698,1,"online"
+"805,190",5,Provider A,Product 68,73.204,1,"online"
+"1,320,789",3,Provider A,Product 68,888.153,1,"callcentre"
+"1,322,463",6,Provider A,Product 76,191.792,1,"online"
+60,7,Provider A,Product 76,660.539,1,"callcentre"
+"1,681,293",5,Provider A,Product 76,385.946,1,"callcentre"
+"288,320",8,Provider A,Product 76,294.399,1,"online"
+"1,681,220",5,Provider A,Product 76,807.128,1,"callcentre"
+"1,681,161",5,Provider A,Product 76,828.014,1,"callcentre"
+"1,680,041",5,Provider A,Product 76,88.5554,1,"callcentre"
+"1,680,031",5,Provider A,Product 76,14.7608,1,"callcentre"
+"288,102",2,Provider A,Product 80,122.082,1,"callcentre"
+"1,639,262",1,Provider A,Product 80,281.26,1,"callcentre"
+"885,161",3,Provider A,Product 80,655.556,1,"online"
+"1,324,563",1,Provider A,Product 80,615.857,1,"online"
+260,5,Provider A,Product 80,13.7151,1,"online"
+"288,734",4,Provider A,Product 84,404.565,1,"callcentre"
+263,6,Provider A,Product 84,536.361,1,"callcentre"
+"1,317,966",6,Provider A,Product 84,3.71767,1,"online"
+"288,545",7,Provider A,Product 84,45.4697,1,"online"
+"1,614,297",4,Provider A,Product 84,56.3451,1,"callcentre"
+"1,659,439",6,Provider A,Product 84,1.22592,1,"online"
+288,5,Provider A,Product 84,616.936,1,"callcentre"
+317,8,Provider A,Product 84,44.5727,1,"online"
+"1,612,596",4,Provider A,Product 84,119.242,1,"callcentre"
+"288,694",4,Provider A,Product 84,463.5,1,"callcentre"
+"1,631,695",4,Provider A,Product 84,42.9908,1,"online"
+"1,323,397",7,Provider A,Product 84,14.3035,1,"online"
+"1,681,285",5,Provider A,Product 84,454.001,1,"callcentre"
+"1,680,311",5,Provider A,Product 84,"1,176.91",1,"callcentre"
+"1,321,181",7,Provider A,Product 88,115.598,1,"online"
+"288,740",4,Provider A,Product 88,625.781,1,"callcentre"
